@@ -1,0 +1,17 @@
+<RCC>
+    <qresource prefix="/">
+        <file>jishiben/a0.png</file>
+        <file>jishiben/a1.png</file>
+        <file>jishiben/a2.png</file>
+        <file>jishiben/b0.png</file>
+        <file>jishiben/b1.png</file>
+        <file>jishiben/b2.png</file>
+        <file>jishiben/c0.png</file>
+        <file>jishiben/c1.png</file>
+        <file>jishiben/c2.png</file>
+        <file>jishiben/d0.png</file>
+        <file>jishiben/e0.png</file>
+        <file>jishiben/e1.png</file>
+        <file>jishiben/f0.png</file>
+    </qresource>
+</RCC>
